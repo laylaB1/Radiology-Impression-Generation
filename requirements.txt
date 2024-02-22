@@ -2,3 +2,7 @@ openai==0.28.1
 tiktoken
 langchain
 pinecone-client
+InstructorEmbedding
+rouge_score
+bert_score
+scikit-learn
